@@ -15,5 +15,4 @@ Description: ....
 
 
 ## Contacto:
-[![Web](https://img.shields.io/badge/Mail-josemariahernandezbello@gmail.com-14a1f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josemariahernandezbello@gmail.com)
-[![Web](https://img.shields.io/badge/Web-www.josemariahernandezbello.com-FF5733?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.josemariahernandezbello.com)
+[![Web](https://img.shields.io/badge/Mail-josemariahernandezbello@gmail.com-14a1f0?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josemariahernandezbello@gmail.com) [![Web](https://img.shields.io/badge/Web-www.josemariahernandezbello.com-FF5733?style=for-the-badge&logoColor=white&labelColor=101010)](https://www.josemariahernandezbello.com)
